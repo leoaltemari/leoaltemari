@@ -6,4 +6,4 @@
 </a>
 
 ### Hello, there 👋
-#### I am a undergraduated Computer Science student at the Universidade de São Paulo - USP at São Carlos.
+#### I am a undergraduated Computer Science student at the Universidade de São Paulo - USP at São Carlos and I work as a Full Stack Web Developer.
