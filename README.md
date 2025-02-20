@@ -6,4 +6,5 @@
 </a>
 
 ### Hello, there 👋
-#### I am a undergraduated Computer Science student at the Universidade de São Paulo - USP at São Carlos and I work as a Full Stack Web Developer.
+#### I am a Computer Scientist by Universidade de São Paulo (USP) from Brazil. <br/>
+I work as a Frontend Developer since 2020 focused in developing applications mostly with Angular and NodeJS.
