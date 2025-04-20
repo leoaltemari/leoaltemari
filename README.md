@@ -1,10 +1,14 @@
-# Leonardo Altemari ❄️
+# 👋 Hi there, I'm Leonardo Altemari
 
-<a href="https://www.linkedin.com/in/leonardo-altemari-008a8017b/" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Linkedin"/>
-</a>
-<a href="leo.altemari@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="gmail"/>
-</a>
+I'm a passionate **Frontend Developer** from Brazil with over 4 years of experience building clean, scalable, and high-performance web applications. I specialize in **Angular**, **TypeScript**, and **JavaScript**, and I'm always aiming to deliver intuitive user experiences and maintainable codebases.
 
-### Hello, there 👋
-#### I am a Computer Scientist by Universidade de São Paulo (USP) from Brazil. <br/>
-I work as a Frontend Developer since 2020 focused in developing applications mostly with Angular and NodeJS.
+📚 Always learning about architecture patterns, testing, and performance optimization  
+🛠️ Tech I use often: `Angular`, `TypeScript`, `Node.js`, `Jest`, `AWS`, `PostgreSQL`
+
+### 📫 Let's Connect
+
+- 📧 Email: leo.altemari@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/leonardo-altemari-008a8017b)  
+- 💻 [Portfolio / GitHub Projects]([https://github.com/leoaltemari](https://github.com/leoaltemari?tab=repositories))
+
+Thanks for visiting! 👨‍💻✨
